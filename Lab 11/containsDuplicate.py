@@ -1,3 +1,6 @@
+# Ash Bhuiyan                  08-03-2025
+# Lab #11 - solution for "containsDuplicates"
+
 def contains_duplicate(nums):
     seen = set()
     for n in nums:

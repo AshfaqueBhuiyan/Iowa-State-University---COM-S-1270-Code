@@ -1,3 +1,6 @@
+# Ash Bhuiyan                  08-03-2025
+# Lab #11 - solution for "validAnagram"
+
 def is_anagram(s, t):
     if len(s) != len(t):
         return False
